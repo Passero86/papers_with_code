@@ -5,6 +5,7 @@ This contains some papers with respect to classification, clustering and etc.
 | Title  |  Conference/Journal          | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
 | similarity learning via kernel preserving embedding | AAAI | [Code](https://github.com/sckangz/SLKE)   | 
+| spectral clustering of signed graphs via matrix power means | ICML | [Code](https://github.com/melopeo/SPM)   |
 
 # 2018
 | Title  |  Conference/Journal          | Code      | 
@@ -12,6 +13,7 @@ This contains some papers with respect to classification, clustering and etc.
 | unified spectral clustering with optimal graph | AAAI | [Code](https://github.com/sckangz/AAAI18)   | 
 | scalable spectral clustering using random binning features  | KDD     | [Code](https://github.com/IBM/SpectralClustering_RandomBinning) |
 | spectral clustering of large-scale data by directly solving normalized cut| KDD |[Code](http://www.escience.cn/people/chenxiaojun/index.html;jsessionid=400511E08064B68CF40EE01E4E191AC8-n1)|
+| understanding regularized spectral clustering via graph conductance | NIPS | [Code](https://github.com/crisbodnar/regularised-spectral-clustering)   | 
 
 # 2017
 | Title  |  Conference/Journal          | Code      | 
@@ -29,6 +31,7 @@ This contains some papers with respect to classification, clustering and etc.
 |unsupervised feature selection with structured graph optimization|AAAI|[Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)|
 |compressive spectral clustering|ICML|[Code](http://cscbox.gforge.inria.fr/)|
 |FUSE: Full Spectral Clustering|KDD|[Code](https://github.com/yeweiysh/FUSE)|
+|cost-sensitive boosting algorithms: do we really need them?|Machine Learning|[Code](https://github.com/nnikolaou/Cost-sensitive-Boosting-Tutorial)|
 
 # 2015
 | Title  |  Conference/Journal          | Code      | 
