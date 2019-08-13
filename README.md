@@ -1,5 +1,5 @@
 # papers_with_code
-This contains some papers' with respect to classification, clustering and etc.
+This contains some papers with respect to classification, clustering and etc.
 
 # 2019
 | Title  |  Conference/Journal          | Code      | 
