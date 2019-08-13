@@ -49,7 +49,7 @@ This contains some papers with respect to classification, clustering and etc.
 # 2013
 | Title  |  Conference/Journal          | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
-| spectral rotation versus K-means in spectral clustering | aaai | [Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)   |
+| spectral rotation versus K-means in spectral clustering | AAAI | [Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)   |
 
 # 2012
 | Title  |  Conference/Journal          | Code      | 
