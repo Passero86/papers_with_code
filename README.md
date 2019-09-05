@@ -6,6 +6,7 @@ This contains some papers with respect to classification, clustering and etc.
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
 | similarity learning via kernel preserving embedding | AAAI | [Code](https://github.com/sckangz/SLKE)   | 
 | spectral clustering of signed graphs via matrix power means | ICML | [Code](https://github.com/melopeo/SPM)   |
+| model-based synthetic sampling for imbalanced data| TKDE | [Code](https://github.com/b10071007/Model-Based-Synthetic-Sampling)   |
 
 # 2018
 | Title  |  Conference/Journal          | Code      | 
