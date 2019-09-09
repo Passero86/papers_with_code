@@ -23,6 +23,7 @@ This contains some papers with respect to classification, clustering and etc.
 | unsupervised large graph embedding | AAAI | [Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)   |
 |robust spectral clustering for noisy data-modeling sparse corruptions improves latent embeddings|KDD|[Code](https://github.com/abojchevski/rsc)|
 |twin learning for similarity and clustering: a unified kernel approach|AAAI|[Code](https://github.com/sckangz/AAAI17)|
+|AMOS: An automated model order selection algorithm for spectral graph clustering|ICASSP|[Code](https://github.com/tgensol/AMOS)|
 
 # 2016
 | Title  |  Conference/Journal          | Code      | 
