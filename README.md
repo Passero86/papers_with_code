@@ -17,7 +17,7 @@ This contains some papers with respect to classification, clustering and etc.
 | scalable spectral clustering using random binning features  | KDD     | [Code](https://github.com/IBM/SpectralClustering_RandomBinning) |
 | spectral clustering of large-scale data by directly solving normalized cut| KDD |[Code](http://www.escience.cn/people/chenxiaojun/index.html;jsessionid=400511E08064B68CF40EE01E4E191AC8-n1)|
 | understanding regularized spectral clustering via graph conductance | NIPS | [Code](https://github.com/crisbodnar/regularised-spectral-clustering)   | 
-| Phase Transitions and a Model Order SelectionCriterion for Spectral Graph Clustering | IEEE Transactions on Signal Processing | [Code](https://github.com/tgensol/AMOS)   | 
+| Phase Transitions and a Model Order Selection Criterion for Spectral Graph Clustering | IEEE Transactions on Signal Processing | [Code](https://github.com/tgensol/AMOS)   | 
 | Multiview clustering via adaptively weighted procrustes | KDD | [Code](http://www.escience.cn/people/fpnie/papers.html)   | 
 
 
