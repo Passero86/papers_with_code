@@ -7,6 +7,8 @@ This contains some papers with respect to classification, clustering and etc.
 | similarity learning via kernel preserving embedding | AAAI | [Code](https://github.com/sckangz/SLKE)   | 
 | spectral clustering of signed graphs via matrix power means | ICML | [Code](https://github.com/melopeo/SPM)   |
 | model-based synthetic sampling for imbalanced data| TKDE | [Code](https://github.com/b10071007/Model-Based-Synthetic-Sampling)   |
+| K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters| KDD | [Code](https://github.com/CHLWR/KDD2019_K-Multiple-Means)   |
+
 
 # 2018
 | Title  |  Conference/Journal          | Code      | 
@@ -16,6 +18,8 @@ This contains some papers with respect to classification, clustering and etc.
 | spectral clustering of large-scale data by directly solving normalized cut| KDD |[Code](http://www.escience.cn/people/chenxiaojun/index.html;jsessionid=400511E08064B68CF40EE01E4E191AC8-n1)|
 | understanding regularized spectral clustering via graph conductance | NIPS | [Code](https://github.com/crisbodnar/regularised-spectral-clustering)   | 
 | Phase Transitions and a Model Order SelectionCriterion for Spectral Graph Clustering | IEEE Transactions on Signal Processing | [Code](https://github.com/tgensol/AMOS)   | 
+| Multiview clustering via adaptively weighted procrustes | KDD | [Code](http://www.escience.cn/people/fpnie/papers.html)   | 
+
 
 
 # 2017
@@ -26,6 +30,8 @@ This contains some papers with respect to classification, clustering and etc.
 |robust spectral clustering for noisy data-modeling sparse corruptions improves latent embeddings|KDD|[Code](https://github.com/abojchevski/rsc)|
 |twin learning for similarity and clustering: a unified kernel approach|AAAI|[Code](https://github.com/sckangz/AAAI17)|
 |AMOS: An automated model order selection algorithm for spectral graph clustering|ICASSP|[Code](https://github.com/tgensol/AMOS)|
+|Multiclass Capped Lp-Norm SVM for Robust Classifications|AAAI|[Code](http://www.escience.cn/people/fpnie/index.html)|
+
 
 # 2016
 | Title  |  Conference/Journal          | Code      | 
