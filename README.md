@@ -20,6 +20,8 @@ This contains some papers with respect to classification, clustering and etc.
 | understanding regularized spectral clustering via graph conductance | NIPS | [Code](https://github.com/crisbodnar/regularised-spectral-clustering)   | 
 | Phase Transitions and a Model Order Selection Criterion for Spectral Graph Clustering | IEEE Transactions on Signal Processing | [Code](https://github.com/tgensol/AMOS)   | 
 | Multiview clustering via adaptively weighted procrustes | KDD | [Code](http://www.escience.cn/people/fpnie/papers.html)   | 
+| On the Spectrum of Random Features Maps of High Dimensional Data | ICML | [Code](https://github.com/Zhenyu-LIAO/RMT4RFM)   | 
+
 
 
 
