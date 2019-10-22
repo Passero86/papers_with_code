@@ -37,6 +37,7 @@ This contains some papers with respect to classification, clustering and etc.
 |twin learning for similarity and clustering: a unified kernel approach|AAAI|[Code](https://github.com/sckangz/AAAI17)|
 |AMOS: An automated model order selection algorithm for spectral graph clustering|ICASSP|[Code](https://github.com/tgensol/AMOS)|
 |Multiclass Capped Lp-Norm SVM for Robust Classifications|AAAI|[Code](http://www.escience.cn/people/fpnie/index.html)|
+|A Hierarchical Algorithm for Extreme Clustering|KDD|[Code](https://github.com/iesl/xcluster)|
 
 
 # 2016
