@@ -10,6 +10,8 @@ This contains some papers with respect to classification, clustering and etc.
 | K-Multiple-Means: A Multiple-Means Clustering Method with Specified K Clusters| KDD | [Code](https://github.com/CHLWR/KDD2019_K-Multiple-Means)   |
 | The SpectACl of Nonconvex Clustering: A Spectral Approach to Density-Based Clustering| AAAI | [Code](https://bitbucket.org/Sibylse/spectacl/src/master/)   |
 | Similarity Preserving Representation Learning for Time Series Clustering| IJCAI | [Code](https://github.com/cecilialeiqi/SPIRAL)   |
+| Supervised Hierarchical Clustering with Exponential Linkage| ICML | [Code](https://github.com/iesl/expLinkage)   |
+
 
 
 # 2018
