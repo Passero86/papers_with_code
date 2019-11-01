@@ -38,6 +38,7 @@ This contains some papers with respect to classification, clustering and etc.
 |AMOS: An automated model order selection algorithm for spectral graph clustering|ICASSP|[Code](https://github.com/tgensol/AMOS)|
 |Multiclass Capped Lp-Norm SVM for Robust Classifications|AAAI|[Code](http://www.escience.cn/people/fpnie/index.html)|
 |A Hierarchical Algorithm for Extreme Clustering|KDD|[Code](https://github.com/iesl/xcluster)|
+|scalable normalized cut with improved spectral rotation|IJCAI|[Code](http://www.xinhua-fluid.com/people/chenxiaojun/index.html;jsessionid=744A8E90AC2E7E9A6052536E11B01ECF-n1)|
 
 
 # 2016
