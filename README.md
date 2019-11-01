@@ -62,7 +62,7 @@ This contains some papers with respect to classification, clustering and etc.
 | Title  |  Conference/Journal          | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
 | clustering and projected clustering with adaptive neighbors | KDD | [Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)   | 
-|  |  | [Code]()   |
+| constructing robust affinity graphs for spectral clustering | CVPR | [Code](http://personal.ie.cuhk.edu.hk/~ccloy/project_robust_graphs/index.html)   |
 
 # 2013
 | Title  |  Conference/Journal          | Code      | 
