@@ -11,6 +11,8 @@ This contains some papers with respect to classification, clustering and etc.
 | The SpectACl of Nonconvex Clustering: A Spectral Approach to Density-Based Clustering| AAAI | [Code](https://bitbucket.org/Sibylse/spectacl/src/master/)   |
 | Similarity Preserving Representation Learning for Time Series Clustering| IJCAI | [Code](https://github.com/cecilialeiqi/SPIRAL)   |
 | Supervised Hierarchical Clustering with Exponential Linkage| ICML | [Code](https://github.com/iesl/expLinkage)   |
+| Subspace Clustering via Good Neighbors| TPAMI | [Code](https://github.com/JLiangNKU/FGNSC)   |
+
 
 
 
