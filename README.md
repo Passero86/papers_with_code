@@ -53,6 +53,8 @@ This contains some papers with respect to classification, clustering and etc.
 |FUSE: Full Spectral Clustering|KDD|[Code](https://github.com/yeweiysh/FUSE)|
 |cost-sensitive boosting algorithms: do we really need them?|Machine Learning|[Code](https://github.com/nnikolaou/Cost-sensitive-Boosting-Tutorial)|
 |Multiple Kernel k-Means Clustering with Matrix-Induced Regularization|AAAI|[Code](https://github.com/wangsiwei2010/Multiple-Kernel-k-Means-Clustering-with-Matrix-Induced-Regularization)|
+|Structured Doubly Stochastic Matrix for Graph Based Clustering|KDD|[Code](https://github.com/joyxqwang/bistochastic_kcut)|
+
 
 # 2015
 | Title  |  Conference/Journal          | Code      | 
