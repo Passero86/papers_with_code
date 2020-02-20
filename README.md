@@ -54,7 +54,6 @@ This contains some papers with respect to classification, clustering and etc.
 # 2016
 | Title  |  Conference/Journal          | Code      | 
 |:-----------------------------------------------------------------------------------:|:-----------:|:-------:|
-| similarity learning via kernel preserving embedding | AAAI | [Code](https://github.com/sckangz/SLKE)   | 
 | the constrained laplacian rank algorithm for graph-based clustering | AAAI | [Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)   |
 |unsupervised feature selection with structured graph optimization|AAAI|[Code](http://chenglongli.cn/people/fpnie/index.html;jsessionid=050431E612A9A370272E702D09061DC0-n2)|
 |compressive spectral clustering|ICML|[Code](http://cscbox.gforge.inria.fr/)|
